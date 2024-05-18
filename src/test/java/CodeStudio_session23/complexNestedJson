@@ -1,0 +1,48 @@
+
+{
+"companyName":"xyz Ltd",
+"Street":"Arifac Avenue",
+         "City":"RK Puram, Delhi",
+         "State":"New Delhi",
+         "pincode":"112345",
+"BankAccounts":["HDFC", "SBI", "AXIS"],
+"employees":[
+{
+  "firstname" : "Suresh",
+  "lastname" : "Mehra",
+  "gender" : "Male",
+  "age" : 35,
+  "salary" : 18000.0,
+  "address" : {
+    "street" : "Park Avenue",
+    "city" : "Vijaywada",
+    "state" : "Andhra Pradesh",
+    "pincode" : 234567
+},
+
+{
+  "firstname" : "Amit",
+  "lastname" : "Gupta",
+  "gender" : "Male",
+  "age" : 35,
+  "salary" : 23000.0,
+  "address" : {
+    "street" : "Plot 7",
+    "city" : "Vijaywada",
+    "state" : "Andhra Pradesh",
+    "pincode" : 234567
+},
+
+{
+  "firstname" : "Ashish",
+  "lastname" : "Das",
+  "gender" : "Male",
+  "age" : 35,
+  "salary" : 55000.0,
+  "address" : {
+    "street" : "Plot 8",
+    "city" : "Dwarka",
+    "state" : "New Delhi",
+    "pincode" : 034765
+}
+]
