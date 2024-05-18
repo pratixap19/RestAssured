@@ -44,6 +44,7 @@ public class Test_GetMethod {
 	}
 	
 	//RequestSpecification is an interface which modifies request.
+	//@Added by Dharmendra: This interface is very helpful for modifying request 
 	@Test
 	public void test03() {
 		RequestSpecification reqSpec = RestAssured.given();

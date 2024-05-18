@@ -46,6 +46,7 @@
 			<artifactId>jackson-databind</artifactId>
 			<version>2.14.1</version>
 		</dependency>
+		
 		<dependency>
 			<groupId>RestAssuredSDET</groupId>
 			<artifactId>RestAssuredSDET</artifactId>
@@ -55,7 +56,7 @@
 			<groupId>com.java17_Selenium</groupId>
 			<artifactId>Automation_Selenium</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+	</dependency>
 	</dependencies>
 	<build>
 		<pluginManagement>
