@@ -43,6 +43,7 @@ public class Test_GetMethod {
 		then().statusCode(200);
 	}
 	
+	//RequestSpecification is an interface which modifies request.
 	@Test
 	public void test03() {
 		RequestSpecification reqSpec = RestAssured.given();
